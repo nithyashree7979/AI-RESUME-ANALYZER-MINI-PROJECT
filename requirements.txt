@@ -1,0 +1,5 @@
+streamlit
+openai>=1.53.0
+python-dotenv
+PyPDF2
+pandas
